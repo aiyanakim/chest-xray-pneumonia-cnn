@@ -38,7 +38,7 @@ The dataset is not included in this repository due to size constraints
 - NumPy
 - Matplotlib
 
-# Project Status 
+## Project Status 
 In Progress
 
 
